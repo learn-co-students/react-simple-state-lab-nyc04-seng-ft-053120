@@ -8,7 +8,7 @@ class Cell extends React.Component {
 
     handleClick = () => {
         this.setState({
-        çcolor: '#333'
+        color: '#333'
             
         })
     }
